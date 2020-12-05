@@ -1,0 +1,25 @@
+.rbook__card {
+  margin-bottom: 2.75rem;
+}
+
+.rbook__title {
+  @include ff-serif;
+  font-weight: normal;
+  font-style: italic;
+  margin-bottom: 0.25rem;
+}
+
+.rbook__author {
+  @include ff-serif;
+  font-weight: normal;
+}
+
+.rbook__card p {
+  @include ff-sans;
+  margin: 0;
+}
+
+.rbook__card a {
+  @include ff-sans;
+  margin-right: 0.5rem;
+}

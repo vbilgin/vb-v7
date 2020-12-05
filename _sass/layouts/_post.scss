@@ -1,0 +1,7 @@
+.post__title {
+  @include f-title;
+}
+
+.post__date {
+  @include ff-sans;
+}

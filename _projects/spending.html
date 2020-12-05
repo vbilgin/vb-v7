@@ -1,0 +1,19 @@
+---
+layout: page
+title: Spending
+permalink: /projects/spending
+---
+<table class="spending__table">
+  <tr>
+    <th>Date</th>
+    <th>Item</th>
+    <th>Amount (USD)</th>
+  </tr>
+  {% for purchase in site.data.spending %}
+  <tr>
+    <td>{{ purchase.date | date: '%m/%d/%Y' }}</td>
+    <td>{{ purchase.name }}</td>
+    <td>${{ purchase.amount }}</td>
+  </tr>
+  {% endfor %}
+</table>

@@ -1,0 +1,18 @@
+url: "https://victorbilgin.com"
+baseurl: ""
+title: "Victor Bilgin" 
+description: ""
+author: "Victor Bilgin"
+
+email: hello@victorbilgin.com
+
+include:
+  - _pages
+  - _projects
+
+markdown: kramdown
+
+sass:
+  style: compressed
+
+highlighter: rouge

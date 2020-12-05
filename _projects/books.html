@@ -1,0 +1,25 @@
+---
+layout: page
+title: Books
+permalink: /projects/books
+---
+
+<h2>Currently Reading</h2>
+
+<h2>Read</h2>
+{% for book in site.data.books reversed %}
+  {% if book.state == "read" %}
+  <div class="rbook__card">
+    <h3 class="rbook__title">{{ book.title }}</h3>
+    <h4 class="rbook__author">{{ book.author }}</h4>
+    <p>Completed: {{ book.date-finished }}</p>
+    <p>Rating: {{ book.rating }}/5</p>
+    {% unless book.review == null %}
+    <a href="{{ site.url }}{{ book.review }}" class="rbook_review">Review</a>
+    {% endunless %}
+    <a href="{{ book.gr-link }}" class="rbook__gr-link">Goodreads Link</a>
+  </div>
+  {% endif %}
+{% endfor %}
+
+<h2>To Read</h2>

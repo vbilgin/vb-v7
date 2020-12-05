@@ -1,0 +1,31 @@
+.site__header {
+  margin-bottom: 3rem;
+}
+
+.header__links {
+  display: inline-flex;
+  flex-direction: column;
+  margin-bottom: 1.5rem;
+}
+
+.header__title {
+  color: black;
+  text-decoration: none;
+  margin-bottom: 0.5rem;
+}
+
+.header__title:hover {
+  text-decoration: underline;
+}
+
+.header__email {
+  @include ff-sans;
+}
+
+.header__nav {
+  @include ff-sans;
+}
+
+.nav__link {
+  margin-right: 1.5rem;
+}

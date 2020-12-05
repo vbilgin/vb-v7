@@ -1,0 +1,14 @@
+.spending__table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+.spending__table td, th {
+  border: 1px solid #ddd;
+  text-align: left;
+  padding: 8px;
+}
+
+.spending__table tr:nth-child(even) {
+  background-color: #ddd;
+}

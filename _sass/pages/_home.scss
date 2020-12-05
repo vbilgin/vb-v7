@@ -1,0 +1,25 @@
+.recent__title {
+  @include f-title;
+
+  span {
+    font-size: 18px;
+  }
+}
+
+.recent__card {
+  margin-bottom: 2rem;
+}
+
+.recent__card h2{
+  font-size: 1.563rem;
+
+  a {
+    color: black;
+    text-decoration: none;
+  }
+}
+
+.recent__card a {
+  @include ff-sans;
+}
+

@@ -1,0 +1,57 @@
+@mixin ff-serif {
+  font-family: 'Georgia', 'Times', 'Times New Roman', serif;
+}
+
+@mixin ff-sans {
+  font-family: 'Arial', 'Helvetica Neue', 'Helvetica', sans-serif;
+}
+
+@mixin f-title {
+  @include ff-sans;
+  font-size: 2.441rem;
+  font-weight: normal;
+}
+
+@mixin f-body {
+  @include ff-serif;
+  font-weight: normal;
+  line-height: 1.5;
+}
+
+@mixin f-heading-1 {
+  @include ff-sans;
+  font-size: 2.441rem;
+  margin-bottom: 1rem;
+}
+
+@mixin f-heading-2 {
+  @include ff-sans;
+  font-size: 1.953rem;
+  margin-bottom: 1rem;
+}
+
+@mixin f-heading-3 {
+  @include ff-sans;
+  font-size: 1.563rem;
+  margin-bottom: 1rem;
+}
+
+@mixin f-heading-4 {
+  @include ff-sans;
+  font-size: 1.25rem;
+  margin-bottom: 1rem;
+}
+
+@mixin f-heading-5 {
+  @include ff-sans;
+  font-size: 1rem;
+  font-variant-caps: all-small-caps;
+  margin-bottom: 1rem;
+}
+
+@mixin f-heading-6 {
+  @include ff-sans;
+  font-size: 0.8rem;
+  font-variant-caps: all-small-caps;
+  margin-bottom: 1rem;
+}

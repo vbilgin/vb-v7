@@ -7,5 +7,4 @@ It's almost the end of the year and I'm hustling to get classes done for school.
 
 I've started reading much more.
 
----
 *This page was last updated on 12/4/2020.*

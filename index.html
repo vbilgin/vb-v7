@@ -6,7 +6,7 @@ title: "Home"
   <section class="home__recent">
     <h1 class="recent__title">Recent Posts <span> <a href="/blog">All posts</a></span></h1>
     <div class="recent__posts">
-      {% for post in site.posts limit:3%}
+      {% for post in site.posts limit:4 %}
       <div class="recent__card">
         <h2>
           <a href="{{ post.url }}">{{ post.title }}</a>

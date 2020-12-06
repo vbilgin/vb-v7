@@ -6,6 +6,10 @@
   font-family: 'Arial', 'Helvetica Neue', 'Helvetica', sans-serif;
 }
 
+@mixin ff-mono {
+  font-family: 'Consolas', 'Courier New', monospace;
+}
+
 @mixin f-title {
   @include ff-sans;
   font-size: 2.441rem;
@@ -54,4 +58,11 @@
   font-size: 0.8rem;
   font-variant-caps: all-small-caps;
   margin-bottom: 1rem;
+}
+
+@mixin table-th-td ($t-align: left, $pad: 0.5rem, $line-h: 1.3) {
+  border: 1px solid rgb(238, 238, 238);;
+  text-align: $t-align;
+  padding: $pad;
+  line-height: $line-h;
 }

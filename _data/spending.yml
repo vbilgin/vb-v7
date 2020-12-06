@@ -1,3 +1,9 @@
 - date: 2020-12-01
   name: "Digital Ocean Droplet"
   amount: 3.54
+- date: 2020-12-05
+  name: "Backblaze B2 - Backup Storage"
+  amount: 2.39
+- date: 2020-12-06
+  name: "Internet Archive Donation"
+  amount: 51.40

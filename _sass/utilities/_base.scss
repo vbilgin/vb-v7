@@ -81,17 +81,25 @@ video {
     max-width: 100%;
 }
 
-// a {
-//     color: $primary-light;
-// }
-
 p {
     @include f-body;
+
+    code {
+        background: rgb(238, 238, 238);
+        border-radius: 3px;
+        padding: 1px 4px;
+      }
 }
 
 li {
   margin-bottom: 0.75rem;
   line-height: 1.5;
+
+  code {
+    background: rgb(238, 238, 238);
+    border-radius: 3px;
+    padding: 1px 4px;
+  }
 }
 
 iframe {
@@ -100,10 +108,17 @@ iframe {
 
 table {
     @include ff-sans;
+    margin-bottom: 1rem;
+    border-collapse: collapse;
+    width: 100%;
+
+    tr:nth-child(even) {
+        background-color: rgb(238, 238, 238);
+      }
 }
 
-// code,
-// pre {
-//     font-family: 'Consolas', 'Courier New', monospace;
-//     overflow: scroll;
-// }
+code,
+pre {
+    @include ff-mono;
+    overflow: scroll;
+}

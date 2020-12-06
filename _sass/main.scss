@@ -1,24 +1,20 @@
 // Utilities
-// @import './utilities/variables';
 @import './utilities/mixins';
 @import './utilities/base';
 @import './utilities/container';
-// @import './utilities/grid';
-// @import './utilities/syntax-highlighting';
+@import './utilities/syntax-highlighting';
 
 // Layouts
 @import './layouts/page';
 @import './layouts/post';
 
-// Elements
-
 // Includes
 @import './includes/header';
+@import './includes/footer';
 
 // Pages
 @import './pages/home';
 @import './pages/blog';
-// @import './pages/404';
 
 // Projects
 @import './projects/books';

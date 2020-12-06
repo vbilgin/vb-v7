@@ -9,11 +9,11 @@ permalink: /projects/spending
     <th>Item</th>
     <th>Amount (USD)</th>
   </tr>
-  {% for purchase in site.data.spending %}
+  {% for purchase in site.data.spending reversed %}
   <tr>
     <td>{{ purchase.date | date: '%m/%d/%Y' }}</td>
     <td>{{ purchase.name }}</td>
-    <td>${{ purchase.amount }}</td>
+    <td class="spending__amt">$ {{ purchase.amount }}</td>
   </tr>
   {% endfor %}
 </table>

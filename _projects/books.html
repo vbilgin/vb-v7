@@ -3,23 +3,62 @@ layout: page
 title: Books
 permalink: /projects/books
 ---
+<p>
+  The titles of books are hyperlinked to that book's Goodreads page (if it has one). The review links point to reviews written by me and hosted on this site (assuming I reviewed that specific book).
+</p>
 
 <h2>Currently Reading</h2>
 
-<h2>Read</h2>
-{% for book in site.data.books reversed %}
-  {% if book.state == "read" %}
-  <div class="rbook__card">
-    <h3 class="rbook__title">{{ book.title }}</h3>
-    <h4 class="rbook__author">{{ book.author }}</h4>
-    <p>Completed: {{ book.date-finished }}</p>
-    <p>Rating: {{ book.rating }}/5</p>
-    {% unless book.review == null %}
-    <a href="{{ site.url }}{{ book.review }}" class="rbook_review">Review</a>
-    {% endunless %}
-    <a href="{{ book.gr-link }}" class="rbook__gr-link">Goodreads Link</a>
-  </div>
+<table class="reading__table">
+  <tr>
+    <th>Title</th>
+    <th>Author</th>
+  </tr>
+  {% for book in site.data.books reversed %}
+  {% if book.state == "reading" %}
+  <tr>
+    <td>
+      {% if book.gr-link == null %}
+      {{ book.title }}
+      {% else %}
+      <a href="{{ book.gr-link }}">{{ book.title }}</a>
+      {% endif %}
+    </td>
+    <td>{{ book.author }}</td>
+  </tr>
   {% endif %}
-{% endfor %}
+  {% endfor %}
+</table>
+
+<h2>Read</h2>
+
+<table class="read__table">
+  <tr>
+    <th>Title</th>
+    <th>Author</th>
+    <th>Rating</th>
+    <th>Links</th>
+  </tr>
+  {% for book in site.data.books reversed %}
+  {% if book.state == "read" %}
+  <tr>
+    <td>
+      {% if book.gr-link == null %}
+      {{ book.title }}
+      {% else %}
+      <a href="{{ book.gr-link }}">{{ book.title }}</a>
+      {% endif %}
+    </td>
+    <td>{{ book.author }}</td>
+    <td>{{ book.rating }}/5</td>
+    <td>
+      {% unless book.review == null %}
+      <a href="{{ site.url }}{{ book.review }}">Review</a>  
+      {% endunless %}
+    </td>
+  </tr>
+  {% endif %}
+  {% endfor %}
+</table>
 
 <h2>To Read</h2>

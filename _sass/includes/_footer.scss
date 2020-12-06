@@ -1,0 +1,8 @@
+.footer__hr {
+  color: rgb(238, 238, 238);
+}
+
+.footer__text {
+  @include ff-sans;
+  font-size: 0.8rem;
+}

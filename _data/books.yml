@@ -5,6 +5,7 @@
   rating: 4
   review: /blog/review-short-history-nearly-everything
   gr-link: https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything
+
 - title: "Just My Type"
   author: "Simon Garfield"
   state: read
@@ -12,6 +13,7 @@
   rating: 1
   review:
   gr-link: https://www.goodreads.com/book/show/10909804-just-my-type
+
 - title: "Permanent Record"
   author: "Edward Snowden"
   state: read
@@ -19,10 +21,21 @@
   rating: 5
   review: /blog/review-permanent-record
   gr-link: https://www.goodreads.com/book/show/46223297-permanent-record
+
 - title: "American Kingpin"
   author: "Nick Bilton"
   state: read
   date-finished: "12/4/2020"
   rating: 2
-  review:
+  review: /blog/review-american-kingpin
   gr-link: https://www.goodreads.com/book/show/31920777-american-kingpin
+
+- title: "The Rise and Fall of the Third Reich"
+  author: "William L. Shirer"
+  state: reading
+  gr-link: https://www.goodreads.com/book/show/767171.The_Rise_and_Fall_of_the_Third_Reich
+
+- title: "Brave New World"
+  author: "Aldous Huxley"
+  state: reading
+  gr-link: https://www.goodreads.com/book/show/5129.Brave_New_World

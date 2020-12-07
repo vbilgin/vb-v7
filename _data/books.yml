@@ -1,3 +1,94 @@
+- title: "Steve Jobs"
+  author: "Walter Isaacson"
+  state: read
+  rating: 4
+  review:
+  gr-link: https://www.goodreads.com/book/show/11084145-steve-jobs
+
+- title: "Bad Blood"
+  author: "John Carreyrou"
+  state: read
+  rating: 3
+  review:
+  gr-link: https://www.goodreads.com/book/show/37976541-bad-blood
+
+- title: "Hatching Twitter"
+  author: "Nick Bilton"
+  state: read
+  rating: 3
+  review:
+  gr-link: https://www.goodreads.com/book/show/18656827-hatching-twitter
+
+- title: "Before the Fall"
+  author: "Noah Hawley"
+  state: read
+  rating: 1
+  review:
+  gr-link: https://www.goodreads.com/book/show/40670008-before-the-fall
+
+- title: "Shoe Dog"
+  author: "Phil Knight"
+  state: read
+  rating: 5
+  review:
+  gr-link: https://www.goodreads.com/book/show/27220736-shoe-dog
+
+- title: "Story"
+  author: "Robert McKee"
+  state: read
+  rating: 4
+  review:
+  gr-link: https://www.goodreads.com/book/show/48654.Story
+
+- title: "Now You See It and Other Essays on Design"
+  author: "Michael Bierut"
+  state: read
+  rating: 2
+  review:
+  gr-link: https://www.goodreads.com/book/show/34220731-now-you-see-it-and-other-essays-on-design
+
+- title: "How To"
+  author: "Michael Bierut"
+  state: read
+  rating: 4
+  review:
+  gr-link: https://www.goodreads.com/book/show/26140485-how-to
+
+- title: "A Guide to the Good Life"
+  author: "Michael B. Irvine"
+  state: read
+  rating: 5
+  review:
+  gr-link: https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life
+
+- title: "The War of Art"
+  author: "Steven Pressfield"
+  state: read
+  rating: 2
+  review:
+  gr-link: https://www.goodreads.com/book/show/1319.The_War_of_Art
+
+- title: "On Writing"
+  author: "Stephen King"
+  state: read
+  rating: 5
+  review:
+  gr-link: https://www.goodreads.com/book/show/10569.On_Writing
+
+- title: "The Stranger"
+  author: "Albert Camus"
+  state: read
+  rating: 5
+  review:
+  gr-link: https://www.goodreads.com/book/show/49552.The_Stranger
+
+- title: "When Breath Becomes Air"
+  author: "Paul Kalanithi"
+  state: read
+  rating: 4
+  review:
+  gr-link: https://www.goodreads.com/book/show/25899336-when-breath-becomes-air
+
 - title: "A Short History of Nearly Everything"
   author: "Bill Bryson"
   state: read

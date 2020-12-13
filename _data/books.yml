@@ -126,21 +126,35 @@
 
 - title: "Brave New World"
   author: "Aldous Huxley"
-  state: reading
+  state: want-to-read
   rating:
   review:
   gr-link: https://www.goodreads.com/book/show/5129.Brave_New_World
 
 - title: "Kitchen Confidential"
   author: "Anthony Bourdain"
-  state: reading
+  state: dnf
   rating:
   review:
   gr-link: https://www.goodreads.com/book/show/33313.Kitchen_Confidential
 
 - title: "Letters from a Stoic"
   author: "Seneca"
-  state: reading
+  state: want-to-read
   rating:
   review:
   gr-link: https://www.goodreads.com/book/show/97411.Letters_from_a_Stoic
+
+- title: "This is Going to Hurt"
+  author: "Adam Kay"
+  state: read
+  rating: 5
+  review: /blog/review-this-is-going-to-hurt
+  gr-link: https://www.goodreads.com/book/show/35510008-this-is-going-to-hurt
+
+- title: "SPQR"
+  author: "Mary Beard"
+  state: reading
+  rating:
+  review:
+  gr-link: https://www.goodreads.com/book/show/28789711-spqr

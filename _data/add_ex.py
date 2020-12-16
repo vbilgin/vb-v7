@@ -26,7 +26,7 @@ while (True):
     purchase_name = get_name()
     purchase_amt = get_amt()
 
-    expense_file.write(f'\n- date: {purchase_date}\n\tname: "{purchase_name}"\n\tamount: {purchase_amt}')
+    expense_file.write(f'\n- date: {purchase_date}\n  name: "{purchase_name}"\n  amount: {purchase_amt}')
 
     print('Purchase added!')
     trigger = input('Add another? (Y or N): ')

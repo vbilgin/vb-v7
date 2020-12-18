@@ -25,3 +25,6 @@
 - date: 2020-12-17
   name: "AT&T Wireless bill"
   amount: 170.07
+- date: 2020-12-18
+  name: "1Password"
+  amount: 6.95

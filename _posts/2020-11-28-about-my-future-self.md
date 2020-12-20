@@ -2,6 +2,7 @@
 layout: post
 title: "About my future self"
 permalink: /blog/about-my-future-self
+tags: post
 ---
 Most personal blogs you see online will have an About section that provides some details about the author’s life. I had one of these pages in every instance of my site and I’ve always hated writing them. The questions that come up are debilitating:
 

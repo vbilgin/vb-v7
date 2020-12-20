@@ -93,7 +93,7 @@
   author: "Bill Bryson"
   state: read
   rating: 4
-  review: /blog/review-short-history-nearly-everything
+  review: /books/short-history-nearly-everything
   gr-link: https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything
 
 - title: "Just My Type"
@@ -107,14 +107,14 @@
   author: "Edward Snowden"
   state: read
   rating: 5
-  review: /blog/review-permanent-record
+  review: /books/permanent-record
   gr-link: https://www.goodreads.com/book/show/46223297-permanent-record
 
 - title: "American Kingpin"
   author: "Nick Bilton"
   state: read
   rating: 2
-  review: /blog/review-american-kingpin
+  review: /books/american-kingpin
   gr-link: https://www.goodreads.com/book/show/31920777-american-kingpin
 
 - title: "The Rise and Fall of the Third Reich"
@@ -149,7 +149,7 @@
   author: "Adam Kay"
   state: read
   rating: 5
-  review: /blog/review-this-is-going-to-hurt
+  review: /books/this-is-going-to-hurt
   gr-link: https://www.goodreads.com/book/show/35510008-this-is-going-to-hurt
 
 - title: "SPQR"

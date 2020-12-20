@@ -12,6 +12,7 @@ email: hello@victorbilgin.com
 include:
   - _pages
   - _projects
+  - _book-reviews
 
 markdown: kramdown
 

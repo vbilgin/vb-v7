@@ -2,6 +2,7 @@
 layout: post
 title: "When is the best time to start producing?"
 permalink: /blog/best-time-to-start-producing
+tags: post
 ---
 Sometimes I get this strange feeling that I’m consuming too much information. Too much media in the form of something like YouTube videos or podcasts. Even books. I start to feel unproductive because I’m not producing anything of my own. Then I sit down and start working on something. I get the idea for a new website design or I finally make an effort to turn my app idea into a reality. But after a few minutes or hours or days I find out I’m missing some piece.
 

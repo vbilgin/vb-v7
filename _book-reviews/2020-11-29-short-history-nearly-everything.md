@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Review: <em>A Short History of Nearly Everything</em> by Bill Bryson"
-permalink: /blog/review-short-history-nearly-everything
+permalink: /books/short-history-nearly-everything
+tags: review book-review
 ---
 
 A fascinating survey of science and humanity. Three very striking things:

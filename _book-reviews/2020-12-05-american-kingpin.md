@@ -1,7 +1,8 @@
 ---
 layout: post
 title: "Review: <em>American Kingpin</em> by Nick Bilton"
-permalink: /blog/review-american-kingpin
+permalink: /books/american-kingpin
+tags: review book-review
 ---
 The best thing I can say about this book is that it kept me interested all the way through. Other than that, the writing was sub-par and felt like it was in need of a more strict editor. Bilton clearly had opinions on the subject matter (all writers do, of course) but the majority of the book seemed to wade at the shallow end of criticality and understanding. Towards the end, you’re beaten over the head with the intertwining stories of Ulbricht going hiking while a teenager in Australia dies after taking a drug that was bought from Silk Road. That chapter in particular felt like lazy reporting and writing.
 

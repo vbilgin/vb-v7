@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: <em>This is Going to Hurt</em> by Adam Kay"
-permalink: /books/this-is-going-to-hurt
+permalink: /projects/books/this-is-going-to-hurt
 tags: review book-review
 ---
 

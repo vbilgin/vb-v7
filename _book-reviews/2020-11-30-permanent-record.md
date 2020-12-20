@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: <em>Permanent Record</em> by Edward Snowden"
-permalink: /books/permanent-record
+permalink: /projects/books/permanent-record
 tags: review book-review
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Review: <em>A Short History of Nearly Everything</em> by Bill Bryson"
-permalink: /books/short-history-nearly-everything
+permalink: /projects/books/short-history-nearly-everything
 tags: review book-review
 ---
 

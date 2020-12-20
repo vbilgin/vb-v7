@@ -1,0 +1,16 @@
+---
+layout: page
+title: Poems
+permalink: /projects/poems
+---
+<main class="poems__main">
+  <ul class="poems__list">
+    {% for poem in site.poems %}
+    <li class="poems__item">
+      <a href="{{ poem.url }}" class="poems__link">{{ poem.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</main>
+
+

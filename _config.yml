@@ -12,7 +12,12 @@ email: hello@victorbilgin.com
 include:
   - _pages
   - _projects
-  - _book-reviews
+  
+collections:
+  book-reviews:
+    output: true
+  poems:
+    output: true
 
 markdown: kramdown
 

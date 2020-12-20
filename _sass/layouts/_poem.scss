@@ -1,0 +1,18 @@
+.poem__title {
+  font-weight: normal;
+}
+
+.poem__content ul {
+  list-style: none;
+  padding: 0 0 0 1.3rem;
+  text-indent: -1.3rem;
+}
+
+.poem__content li {
+  margin-bottom: 0.2rem;
+
+  p {
+    margin-top: 0;
+    margin-bottom: 1.2rem;
+  }
+}

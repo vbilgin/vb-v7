@@ -16,6 +16,8 @@ include:
 collections:
   book-reviews:
     output: true
+  movie-reviews:
+    output: true
   poems:
     output: true
 

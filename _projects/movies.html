@@ -1,0 +1,26 @@
+---
+layout: page
+title: Movies
+permalink: /projects/movies
+---
+<p>Movie titles link to their respective IMDb pages (if available).</p>
+<table class="movies__table">
+  <tr>
+    <th>Title</th>
+    <th>Rating</th>
+    <th>Review</th>
+  </tr>
+  {% for movie in site.data.movies reversed %}
+  <tr>
+    <td>
+      {% if movie.imdb-link == null %}
+      {{ movie.title }}
+      {% else %}
+      <a href="{{ movie.imdb-link }}">{{ movie.title }}</a>
+      {% endif %}
+    </td>
+    <td>{{ movie.rating }}/5</td>
+    <td><a href="{{ movie.review }}">Review</a></td>
+  </tr>
+  {% endfor %}
+</table>

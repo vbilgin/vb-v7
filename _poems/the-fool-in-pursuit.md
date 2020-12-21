@@ -20,4 +20,4 @@ tags: poem
 - The same harsh day,
 - The Fight --
 - And seek it still. Such a fool am I --
-- Unburndened.
+- Unburdened.

@@ -154,7 +154,21 @@
 
 - title: "SPQR"
   author: "Mary Beard"
-  state: reading
+  state: want-to-read
   rating:
   review:
   gr-link: https://www.goodreads.com/book/show/28789711-spqr
+
+- title: "Code"
+  author: "Charles Petzold"
+  state: reading
+  rating:
+  review:
+  gr-link: https://www.goodreads.com/book/show/44882.Code
+
+- title: "Outliers"
+  author: "Malcolm Gladwell"
+  state: reading
+  rating:
+  review:
+  gr-link: https://www.goodreads.com/book/show/3228917-outliers

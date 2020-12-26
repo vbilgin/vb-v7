@@ -1,7 +1,9 @@
 .post__title {
   @include f-title;
+  margin-bottom: 0.25rem;
 }
 
 .post__date {
-  @include ff-sans;
+  @include ff-mono;
+  margin-top: 0;
 }

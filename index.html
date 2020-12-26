@@ -12,6 +12,9 @@ title: "Home"
         <h2>
           <a href="{{ post.url }}">{{ post.title }}</a>
         </h2>
+        <p class="recent__date">
+          {{ post.date | date: '%m/%d/%Y' }}
+        </p>
         <p>
           {{ post.excerpt | truncatewords: 25 | strip_html }}
         </p>

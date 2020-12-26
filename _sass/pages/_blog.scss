@@ -8,6 +8,7 @@
 
 .enum__card h2{
   font-size: 1.563rem;
+  margin-bottom: 0.25rem;
 
   a {
     color: black;
@@ -17,4 +18,9 @@
 
 .enum__card a {
   @include ff-sans;
+}
+
+.enum__date {
+  @include ff-mono;
+  margin: 0;
 }

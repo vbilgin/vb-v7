@@ -32,7 +32,7 @@
   name: "Dominos Pizza"
   amount: 39.22
 - date: 2020-12-21
-  name: "Bandcamp - Yeo-Neun by Okkyung Lee"
+  name: "Yeo-Neun by Okkyung Lee (Basecamp)"
   amount: 12.78
 - date: 2020-12-21
   name: "Mullvad VPN"
@@ -43,3 +43,6 @@
 - date: 2020-12-25
   name: "victorbilgin.com - 9 year domain registration"
   amount: 114.84
+- date: 2020-12-25
+  name: "Discover credit card payment"
+  amount: 400.00

@@ -12,6 +12,7 @@
 
 .recent__card h2{
   font-size: 1.563rem;
+  margin-bottom: 0.25rem;
 
   a {
     color: black;
@@ -23,3 +24,7 @@
   @include ff-sans;
 }
 
+.recent__date {
+  @include ff-mono;
+  margin: 0;
+}

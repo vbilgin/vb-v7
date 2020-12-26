@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "About my future self"
+title: "About My Future Self"
 permalink: /blog/about-my-future-self
 tags: post
 ---

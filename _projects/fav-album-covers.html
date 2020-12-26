@@ -1,0 +1,13 @@
+---
+layout: page
+title: Favorite Album Covers
+permalink: /projects/fav-album-covers
+---
+<div class="album-cover__container">
+  {% for album in site.data.album-covers %}
+  <div class="album-cover__card">
+    <img src="{{ album.cover-img }}" alt="Album cover for {{ album.title }} by {{ album.artist }}" class="album-cover__img">
+    <p class="album-cover__caption">{{ album.title }} by {{ album.artist }}</p>
+  </div>
+  {% endfor %}
+</div>

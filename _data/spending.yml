@@ -46,3 +46,18 @@
 - date: 2020-12-25
   name: "Discover credit card payment"
   amount: 400.00
+- date: 2020-12-26
+  name: "Digital Multimeter (Amazon)"
+  amount: 28.46
+- date: 2020-12-26
+  name: "Code by Charles Petzold (Amazon)"
+  amount: 23.61
+- date: 2020-12-26
+  name: "AA and AAA Batteries (Amazon)"
+  amount: 19.20
+- date: 2020-12-26
+  name: "Crash Course Electronics and PCB Design (Udemy)"
+  amount: 14.99
+- date: 2020-12-27
+  name: "Brand New subscription (UnderConstruction)"
+  amount: 2.00

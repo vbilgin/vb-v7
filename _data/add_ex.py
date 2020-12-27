@@ -1,6 +1,4 @@
-# This is a simple Python script
-# for me to add expenses to my spending.yml file
-# via the command line.
+# This is a simple Python script for me to add expenses to my spending.yml file via the command line.
 
 from datetime import date
 

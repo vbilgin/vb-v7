@@ -168,7 +168,14 @@
 
 - title: "Outliers"
   author: "Malcolm Gladwell"
-  state: reading
+  state: want-to-read
   rating:
   review:
   gr-link: https://www.goodreads.com/book/show/3228917-outliers
+
+- title: "That Will Never Work"
+  author: "Marc Randolph"
+  state: reading
+  rating:
+  review:
+  gr-link: https://www.goodreads.com/book/show/44428950-that-will-never-work

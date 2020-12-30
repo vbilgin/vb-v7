@@ -2,3 +2,8 @@
   rating: 5
   review: /projects/movies/fantastic-mr-fox
   imdb-link: https://www.imdb.com/title/tt0432283
+
+- title: "Totally Under Control"
+  rating: 4
+  review: /projects/movies/totally-under-control
+  imdb-link: https://www.imdb.com/title/tt13065386/

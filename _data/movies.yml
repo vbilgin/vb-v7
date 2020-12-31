@@ -7,3 +7,8 @@
   rating: 4
   review: /projects/movies/totally-under-control
   imdb-link: https://www.imdb.com/title/tt13065386/
+
+- title: "Soul"
+  rating: 4
+  review: /projects/movies/soul
+  imdb-link: https://www.imdb.com/title/tt2948372

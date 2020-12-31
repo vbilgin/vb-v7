@@ -61,3 +61,6 @@
 - date: 2020-12-27
   name: "Brand New subscription (UnderConstruction)"
   amount: 2.00
+- date: 2020-12-31
+  name: "Pizza Hut"
+  amount: 37.73

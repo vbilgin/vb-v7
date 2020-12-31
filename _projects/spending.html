@@ -13,7 +13,7 @@ permalink: /projects/spending
   <tr>
     <td>{{ purchase.date | date: '%m/%d/%Y' }}</td>
     <td>{{ purchase.name }}</td>
-    <td class="spending__amt">$ {{ purchase.amount }}</td>
+    <td class="spending__amt">{{ purchase.amount }}</td>
   </tr>
   {% endfor %}
 </table>

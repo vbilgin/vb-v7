@@ -9,4 +9,5 @@
     <img src="https://api.netlify.com/api/v1/badges/ea963886-5566-45f7-aed5-49b5c1331d2d/deploy-status" alt="Netlify Status" />
   </a>
 </p>
+
 ![A screenshot of my site for demo purposes](https://github.com/vbilgin/vb-v7/blob/master/assets/img/demo.png)

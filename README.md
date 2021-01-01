@@ -10,4 +10,4 @@
   </a>
 </p>
 
-![A screenshot of my site for demo purposes](https://github.com/vbilgin/vb-v7/blob/master/assets/img/demo.png)
+![A screenshot of my site for demo purposes](https://github.com/vbilgin/vb-v7/blob/main/assets/img/demo.png)

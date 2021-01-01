@@ -12,3 +12,8 @@
   rating: 4
   review: /projects/movies/soul
   imdb-link: https://www.imdb.com/title/tt2948372
+
+- title: "Sound of Metal"
+  rating: 5
+  review: /projects/movies/sound-of-metal
+  imdb-link: https://www.imdb.com/title/tt5363618/

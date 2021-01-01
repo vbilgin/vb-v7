@@ -1,7 +1,7 @@
 ---
 layout: poem
 title: The Fool in Pursuit
-permalink: /poems/the-fool-in-pursuit
+permalink: /projects/poems/the-fool-in-pursuit
 tags: poem
 ---
 - Hairs out of the shadow

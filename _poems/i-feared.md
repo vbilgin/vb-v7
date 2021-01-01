@@ -1,7 +1,7 @@
 ---
 layout: poem
 title: I Feared
-permalink: /poems/i-feared
+permalink: /projects/poems/i-feared
 tags: poem
 ---
 - Truly, I feared

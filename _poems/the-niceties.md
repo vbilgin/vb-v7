@@ -1,7 +1,7 @@
 ---
 layout: poem
 title: The Niceties
-permalink: /poems/the-niceties
+permalink: /projects/poems/the-niceties
 tags: poem
 ---
 - In a savage land of strife

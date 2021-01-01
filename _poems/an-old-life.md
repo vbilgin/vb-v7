@@ -1,7 +1,7 @@
 ---
 layout: poem
 title: An Old Life
-permalink: /poems/an-old-life
+permalink: /projects/poems/an-old-life
 tags: poem
 ---
 - All through the years

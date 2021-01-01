@@ -1,7 +1,7 @@
 ---
 layout: poem
 title: Different Strokes
-permalink: /poems/different-strokes
+permalink: /projects/poems/different-strokes
 tags: poem
 ---
 - Pick up your brush,

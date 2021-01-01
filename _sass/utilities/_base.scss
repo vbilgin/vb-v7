@@ -112,6 +112,10 @@ table {
     border-collapse: collapse;
     width: 100%;
 
+    td, th {
+        @include table-th-td;
+    }
+
     tr:nth-child(even) {
         background-color: rgb(238, 238, 238);
       }

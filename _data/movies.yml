@@ -22,3 +22,8 @@
   rating: 3
   review: /projects/movies/mollys-game
   imdb-link: https://www.imdb.com/title/tt4209788/
+
+- title: "Host"
+  rating: 1
+  review: /projects/movies/host
+  imdb-link: https://www.imdb.com/title/tt12749596/

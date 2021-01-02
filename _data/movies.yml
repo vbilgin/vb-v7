@@ -27,3 +27,8 @@
   rating: 1
   review: /projects/movies/host
   imdb-link: https://www.imdb.com/title/tt12749596/
+
+- title: "Run (2020)"
+  rating: 3
+  review: /projects/movies/host
+  imdb-link: https://www.imdb.com/title/tt0008633478/

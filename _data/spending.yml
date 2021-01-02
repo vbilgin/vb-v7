@@ -70,3 +70,6 @@
 - date: 2021-01-01
   name: "Digital Ocean Droplet"
   amount: 4.97
+- date: 2021-01-02
+  name: "iCloud 50GB tier"
+  amount: 0.99

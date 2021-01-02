@@ -17,3 +17,8 @@
   rating: 5
   review: /projects/movies/sound-of-metal
   imdb-link: https://www.imdb.com/title/tt5363618/
+
+- title: "Molly's Game"
+  rating: 3
+  review: /projects/movies/mollys-game
+  imdb-link: https://www.imdb.com/title/tt4209788/

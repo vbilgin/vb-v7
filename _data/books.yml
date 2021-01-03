@@ -140,7 +140,7 @@
 
 - title: "Letters from a Stoic"
   author: "Seneca"
-  state: want-to-read
+  state: reading
   rating:
   review:
   gr-link: https://www.goodreads.com/book/show/97411.Letters_from_a_Stoic
@@ -175,7 +175,14 @@
 
 - title: "That Will Never Work"
   author: "Marc Randolph"
-  state: reading
+  state: dnf
   rating:
   review:
   gr-link: https://www.goodreads.com/book/show/44428950-that-will-never-work
+
+- title: "How the Internet Happened"
+  author: "Brian McCullough"
+  state: reading
+  rating:
+  review:
+  gr-link: https://www.goodreads.com/book/show/38212134-how-the-internet-happened

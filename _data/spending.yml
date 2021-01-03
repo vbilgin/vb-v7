@@ -73,3 +73,6 @@
 - date: 2021-01-02
   name: "iCloud 50GB tier"
   amount: 0.99
+- date: 2021-01-03
+  name: "Spotify Premium"
+  amount: 4.99

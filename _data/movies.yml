@@ -32,3 +32,8 @@
   rating: 3
   review: /projects/movies/run-2020
   imdb-link: https://www.imdb.com/title/tt0008633478/
+
+- title: "Tenet"
+  rating: 2
+  review: /projects/movies/tenet
+  imdb-link: https://www.imdb.com/title/tt6723592/

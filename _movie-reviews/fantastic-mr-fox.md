@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Review: Fantastic Mr. Fox"
+title: "Fantastic Mr. Fox"
 permalink: /projects/movies/fantastic-mr-fox
 tags: review movie-review
 ---

@@ -76,3 +76,9 @@
 - date: 2021-01-03
   name: "Spotify Premium"
   amount: 4.99
+- date: 2021-01-05
+  name: "Backblaze B2"
+  amount: 2.79
+- date: 2021-01-06
+  name: "Discover credit card payment"
+  amount: 636.88

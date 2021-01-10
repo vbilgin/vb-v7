@@ -82,3 +82,6 @@
 - date: 2021-01-06
   name: "Discover credit card payment"
   amount: 636.88
+- date: 2021-01-07
+  name: "Gift card (Amazon)"
+  amount: 100

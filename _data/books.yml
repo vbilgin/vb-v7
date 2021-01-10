@@ -117,47 +117,12 @@
   review: /projects/books/american-kingpin
   gr-link: https://www.goodreads.com/book/show/31920777-american-kingpin
 
-- title: "The Rise and Fall of the Third Reich"
-  author: "William L. Shirer"
-  state: want-to-read
-  rating:
-  review:
-  gr-link: https://www.goodreads.com/book/show/767171.The_Rise_and_Fall_of_the_Third_Reich
-
-- title: "Brave New World"
-  author: "Aldous Huxley"
-  state: want-to-read
-  rating:
-  review:
-  gr-link: https://www.goodreads.com/book/show/5129.Brave_New_World
-
-- title: "Kitchen Confidential"
-  author: "Anthony Bourdain"
-  state: dnf
-  rating:
-  review:
-  gr-link: https://www.goodreads.com/book/show/33313.Kitchen_Confidential
-
-- title: "Letters from a Stoic"
-  author: "Seneca"
-  state: reading
-  rating:
-  review:
-  gr-link: https://www.goodreads.com/book/show/97411.Letters_from_a_Stoic
-
 - title: "This is Going to Hurt"
   author: "Adam Kay"
   state: read
   rating: 5
   review: /projects/books/this-is-going-to-hurt
   gr-link: https://www.goodreads.com/book/show/35510008-this-is-going-to-hurt
-
-- title: "SPQR"
-  author: "Mary Beard"
-  state: want-to-read
-  rating:
-  review:
-  gr-link: https://www.goodreads.com/book/show/28789711-spqr
 
 - title: "Code"
   author: "Charles Petzold"
@@ -166,23 +131,23 @@
   review:
   gr-link: https://www.goodreads.com/book/show/44882.Code
 
-- title: "Outliers"
-  author: "Malcolm Gladwell"
-  state: want-to-read
-  rating:
-  review:
-  gr-link: https://www.goodreads.com/book/show/3228917-outliers
-
-- title: "That Will Never Work"
-  author: "Marc Randolph"
-  state: dnf
-  rating:
-  review:
-  gr-link: https://www.goodreads.com/book/show/44428950-that-will-never-work
-
 - title: "How the Internet Happened"
   author: "Brian McCullough"
-  state: reading
-  rating:
-  review:
+  state: read
+  rating: 4
+  review: /projects/books/how-the-internet-happened
   gr-link: https://www.goodreads.com/book/show/38212134-how-the-internet-happened
+
+- title: "The Old Man and the Sea"
+  author: "Ernest Hemingway"
+  state: reading
+  rating: 
+  review: 
+  gr-link: https://www.goodreads.com/book/show/2165.The_Old_Man_and_the_Sea
+
+- title: "How to Win Friends and Influence People"
+  author: "Dale Carnegie"
+  state: reading
+  rating: 
+  review: 
+  gr-link: https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People

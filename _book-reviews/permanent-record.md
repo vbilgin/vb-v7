@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Review: <em>Permanent Record</em> by Edward Snowden"
+title: "<em>Permanent Record</em> by Edward Snowden"
 permalink: /projects/books/permanent-record
 tags: review book-review
 ---

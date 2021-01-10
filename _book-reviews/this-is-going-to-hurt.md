@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Review: <em>This is Going to Hurt</em> by Adam Kay"
+title: "<em>This is Going to Hurt</em> by Adam Kay"
 permalink: /projects/books/this-is-going-to-hurt
 tags: review book-review
 ---

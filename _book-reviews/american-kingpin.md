@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Review: <em>American Kingpin</em> by Nick Bilton"
+title: "<em>American Kingpin</em> by Nick Bilton"
 permalink: /projects/books/american-kingpin
 tags: review book-review
 ---

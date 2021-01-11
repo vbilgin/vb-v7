@@ -138,16 +138,16 @@
   review: /projects/books/how-the-internet-happened
   gr-link: https://www.goodreads.com/book/show/38212134-how-the-internet-happened
 
-- title: "The Old Man and the Sea"
-  author: "Ernest Hemingway"
-  state: reading
-  rating: 
-  review: 
-  gr-link: https://www.goodreads.com/book/show/2165.The_Old_Man_and_the_Sea
-
 - title: "How to Win Friends and Influence People"
   author: "Dale Carnegie"
   state: reading
   rating: 
   review: 
   gr-link: https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People
+
+- title: "The Death and Life of the Great American School System"
+  author: "Diane Ravitch"
+  state: reading
+  rating: 
+  review: 
+  gr-link: https://www.goodreads.com/book/show/6954133-the-death-and-life-of-the-great-american-school-system

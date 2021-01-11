@@ -42,3 +42,8 @@
   rating: 4
   review: /projects/movies/a-few-good-men
   imdb-link: https://www.imdb.com/title/tt0104257/
+
+- title: "The American President"
+  rating: 3
+  review: /projects/movies/the-american-president
+  imdb-link: https://www.imdb.com/title/tt0112346/

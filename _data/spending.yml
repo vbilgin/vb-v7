@@ -85,3 +85,6 @@
 - date: 2021-01-07
   name: "Gift card (Amazon)"
   amount: 100
+- date: 2021-01-16
+  name: "Various gifts (<10)"
+  amount: 100

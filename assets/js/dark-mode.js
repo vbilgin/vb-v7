@@ -13,7 +13,7 @@ const setIconColor = (icon, colorScheme) => {
 }
 
 const setInitialColorScheme = () => {
-    if (!(document.documentElement.getAttribute('data-theme') === currentColorScheme)) {
+    if (document.documentElement.getAttribute('data-theme') !== currentColorScheme) {
         if (currentColorScheme === null || currentColorScheme === 'light') {
             document.documentElement.setAttribute('data-theme', 'light')
         } else if (currentColorScheme === 'dark') {
@@ -33,7 +33,7 @@ toggleIcon.addEventListener('click', (e) => {
         localStorage.setItem('colorScheme', 'dark')
     } else if (currentColorScheme === 'dark') {
         document.documentElement.setAttribute('data-theme', 'light')
-        localStorage.setItem('colorScheme', 'light')
         setIconColor(toggleIcon, 'light')
+        localStorage.setItem('colorScheme', 'light')
     }
 })

@@ -9,7 +9,7 @@
 }
 
 .header__title {
-  color: black;
+  color: var(--secondary);
   text-decoration: none;
   margin-bottom: 0.5rem;
 }
@@ -24,8 +24,14 @@
 
 .header__nav {
   @include ff-sans;
+  display: flex;
+  align-items: center;
 }
 
 .nav__link {
-  margin-right: 1.5rem;
+  margin-right: 1.6rem;
+}
+
+.nav__color-toggle:hover {
+    cursor: pointer;
 }

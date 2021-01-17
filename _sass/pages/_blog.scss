@@ -22,7 +22,7 @@
 }
 
 .all-posts__item:nth-of-type(even) {
-  background: rgb(238, 238, 238)
+  background: var(--secondary-accent)
 }
 
 .all-posts__date {

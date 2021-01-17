@@ -1,3 +1,27 @@
+:root {
+    --primary: white;
+    --secondary:  black;
+    --main-accent: blue;
+    --secondary-accent: #eeeeee;
+}
+
+[data-theme="dark"] {
+    --primary: #121212;
+    --secondary: #f3f3f3;
+    --main-accent: #F6AE2D;
+    --secondary-accent: #4e4e4e;
+}
+
+*,
+*::before,
+*::after {
+    box-sizing: inherit;
+}
+
+html {
+    box-sizing: border-box;
+}
+
 html,
 body,
 dl,
@@ -21,6 +45,7 @@ h6 {
 }
 
 body {
+    background-color: var(--primary);
     @include ff-serif;
     font-size: 18px;
 }
@@ -32,6 +57,7 @@ h4,
 h5,
 h6 {
     font-size: 100%;
+    color: var(--secondary)
 }
 
 h1 {
@@ -65,16 +91,6 @@ textarea {
     margin: 0;
 }
 
-html {
-    box-sizing: border-box;
-}
-
-*,
-*::before,
-*::after {
-    box-sizing: inherit;
-}
-
 img,
 video {
     height: auto;
@@ -82,10 +98,11 @@ video {
 }
 
 p {
+    color: var(--secondary);
     @include f-body;
 
     code {
-        background: rgb(238, 238, 238);
+        background: var(--secondary-accent);
         border-radius: 3px;
         padding: 1px 4px;
       }
@@ -94,12 +111,17 @@ p {
 li {
   margin-bottom: 0.75rem;
   line-height: 1.5;
+  color: var(--secondary);
 
   code {
-    background: rgb(238, 238, 238);
+    background: var(--secondary-accent);
     border-radius: 3px;
     padding: 1px 4px;
   }
+}
+
+li::marker {
+    color: var(--secondary)
 }
 
 iframe {
@@ -111,13 +133,15 @@ table {
     margin-bottom: 1rem;
     border-collapse: collapse;
     width: 100%;
+    color: var(--secondary);
+    background-color: var(--primary);
 
     td, th {
         @include table-th-td;
     }
 
     tr:nth-child(even) {
-        background-color: rgb(238, 238, 238);
+        background-color: var(--secondary-accent);
       }
 }
 
@@ -125,4 +149,12 @@ code,
 pre {
     @include ff-mono;
     overflow: scroll;
+}
+
+a {
+    color: var(--main-accent)
+}
+
+a code{
+    color: var(--main-accent);
 }

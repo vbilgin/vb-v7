@@ -13,12 +13,14 @@ const setIconColor = (icon, colorScheme) => {
 }
 
 const setInitialColorScheme = () => {
-    if (currentColorScheme === null || currentColorScheme === 'light') {
-        document.documentElement.setAttribute('data-theme', 'light')
-    } else if (currentColorScheme === 'dark') {
-        document.documentElement.setAttribute('data-theme', 'dark')
-        setIconColor(toggleIcon, 'dark')
-    }
+    if (!(document.documentElement.getAttribute('data-theme') === currentColorScheme)) {
+        if (currentColorScheme === null || currentColorScheme === 'light') {
+            document.documentElement.setAttribute('data-theme', 'light')
+        } else if (currentColorScheme === 'dark') {
+            document.documentElement.setAttribute('data-theme', 'dark')
+            setIconColor(toggleIcon, 'dark')
+        }
+    } 
 }
 
 setInitialColorScheme()

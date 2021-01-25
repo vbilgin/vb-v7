@@ -1,7 +1,4 @@
-.read__table td, th {
-  @include table-th-td
-}
-
-.reading__table td, th {
-  @include table-th-td
+.reading__table td,
+th {
+  @include table-th-td;
 }

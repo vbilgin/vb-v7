@@ -4,7 +4,8 @@ title: "Molly's Game"
 permalink: /projects/movies/mollys-game
 tags: review movie-review
 ---
-*Directed by Aaron Sorkin*
+
+_Directed by Aaron Sorkin_
 
 Snappy dialogue and good performances from the cast hold this film up. And the story, of course. Besides those elements, this film falls short or is just "eh."
 

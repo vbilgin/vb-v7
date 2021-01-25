@@ -1,5 +1,6 @@
-.spending__table td, th {
-  @include table-th-td
+.spending__table td,
+th {
+  @include table-th-td;
 }
 
 .spending__amt {

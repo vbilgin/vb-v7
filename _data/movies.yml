@@ -47,3 +47,8 @@
   rating: 3
   review: /projects/movies/the-american-president
   imdb-link: https://www.imdb.com/title/tt0112346/
+
+- title: "One Night in Miami"
+  rating: 3
+  review: /projects/movies/one-night-in-miami
+  imdb-link: https://www.imdb.com/title/tt10612922/

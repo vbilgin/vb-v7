@@ -32,7 +32,7 @@
   name: "Dominos Pizza"
   amount: 39.22
 - date: 2020-12-21
-  name: "Yeo-Neun by Okkyung Lee (Basecamp)"
+  name: "Yeo-Neun by Okkyung Lee (Bandcamp)"
   amount: 12.78
 - date: 2020-12-21
   name: "Mullvad VPN"
@@ -67,6 +67,9 @@
 - date: 2020-12-31
   name: "Paul Mitchell Tea Tree Shaping Cream (Amazon)"
   amount: 16.64
+- date: ""
+  name: <strong>January 2021</strong>
+  amount: ""
 - date: 2021-01-01
   name: "Digital Ocean Droplet"
   amount: 4.97
@@ -103,3 +106,24 @@
 - date: 2021-01-24
   name: "Drawer organizers and velcro cable ties (Amazon)"
   amount: 56.34
+- date: 2021-01-26
+  name: "Shampoo, conditioner, and mouthwash (Amazon)"
+  amount: 22.31
+- date: 2021-01-27
+  name: "Panda Express"
+  amount: 10.73
+- date: 2021-01-27
+  name: "Discover credit card payment"
+  amount: 672.49
+- date: 2021-01-28
+  name: "Rent"
+  amount: 600
+- date: 2021-01-28
+  name: "Day One Journal yearly subscription"
+  amount: 34.99
+- date: 2021-01-29
+  name: "Chipotle"
+  amount: 19.93
+- date: ""
+  name: <strong>February 2021</strong>
+  amount: ""

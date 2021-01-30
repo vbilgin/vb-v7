@@ -52,3 +52,13 @@
   rating: 3
   review: /projects/movies/one-night-in-miami
   imdb-link: https://www.imdb.com/title/tt10612922/
+
+- title: "The Dissident"
+  rating: 3
+  review: /projects/movies/the-dissident
+  imdb-link: https://www.imdb.com/title/tt11382384
+
+- title: "AlphaGo"
+  rating: 5
+  review: /projects/movies/alphago
+  imdb-link: https://www.imdb.com/title/tt6700846

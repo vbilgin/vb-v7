@@ -59,7 +59,7 @@
   name: "Crash Course Electronics and PCB Design (Udemy)"
   amount: 14.99
 - date: 2020-12-27
-  name: "Brand New subscription (UnderConstruction)"
+  name: "BrandNew subscription"
   amount: 2.00
 - date: 2020-12-31
   name: "Pizza Hut"
@@ -109,6 +109,9 @@
 - date: 2021-01-26
   name: "Shampoo, conditioner, and mouthwash (Amazon)"
   amount: 22.31
+- date: 2021-01-26
+  name: "BrandNew subscription"
+  amount: 2.00
 - date: 2021-01-27
   name: "Panda Express"
   amount: 10.73

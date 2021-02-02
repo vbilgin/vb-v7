@@ -7,3 +7,4 @@ vendor
 .sass-cache
 Gemfile.lock
 .jekyll-cache
+.vscode

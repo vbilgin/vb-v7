@@ -4,9 +4,11 @@ title: "Host"
 permalink: /projects/movies/host
 tags: review movie-review
 ---
-*Directed by Rob Savage*
+
+_Directed by Rob Savage_
 
 There were two good things about this film:
+
 1. The acting
 2. The credits
 

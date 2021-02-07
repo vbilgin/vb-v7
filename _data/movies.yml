@@ -62,3 +62,8 @@
   rating: 5
   review: /projects/movies/alphago
   imdb-link: https://www.imdb.com/title/tt6700846
+
+- title: "Miss Sloane"
+  rating: 2
+  review: /projects/movies/miss-sloane
+  imdb-link: https://www.imdb.com/title/tt4540710

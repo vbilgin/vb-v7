@@ -141,13 +141,20 @@
 - title: "How to Win Friends and Influence People"
   author: "Dale Carnegie"
   state: reading
-  rating: 
-  review: 
+  rating:
+  review:
   gr-link: https://www.goodreads.com/book/show/4865.How_to_Win_Friends_and_Influence_People
 
 - title: "The Death and Life of the Great American School System"
   author: "Diane Ravitch"
   state: reading
-  rating: 
-  review: 
+  rating:
+  review:
   gr-link: https://www.goodreads.com/book/show/6954133-the-death-and-life-of-the-great-american-school-system
+
+- title: "Exhalation"
+  author: "Ted Chiang"
+  state: read
+  rating: 4
+  review:
+  gr-link: https://www.goodreads.com/book/show/41160292-exhalation

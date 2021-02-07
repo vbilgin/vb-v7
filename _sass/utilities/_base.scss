@@ -1,15 +1,17 @@
 :root {
-    --primary: white;
-    --secondary:  black;
-    --main-accent: blue;
-    --secondary-accent: #eeeeee;
+  --primary: white;
+  --secondary: black;
+  --main-accent: blue;
+  --secondary-accent: #eeeeee;
+  --table-accent: #dfdfdf;
 }
 
 [data-theme="dark"] {
-    --primary: #121212;
-    --secondary: #f3f3f3;
-    --main-accent: #F6AE2D;
-    --secondary-accent: #4e4e4e;
+  --primary: #121212;
+  --secondary: #f3f3f3;
+  --main-accent: #f6ae2d;
+  --secondary-accent: #4e4e4e;
+  --table-accent: #6b6b6b;
 }
 
 // @media (prefers-color-scheme: dark) {
@@ -24,11 +26,11 @@
 *,
 *::before,
 *::after {
-    box-sizing: inherit;
+  box-sizing: inherit;
 }
 
 html {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 html,
@@ -49,14 +51,14 @@ h3,
 h4,
 h5,
 h6 {
-    margin: 0;
-    padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
 body {
-    background-color: var(--primary);
-    @include ff-serif;
-    font-size: 18px;
+  background-color: var(--primary);
+  @include ff-serif;
+  font-size: 18px;
 }
 
 h1,
@@ -65,56 +67,56 @@ h3,
 h4,
 h5,
 h6 {
-    font-size: 100%;
-    color: var(--secondary)
+  font-size: 100%;
+  color: var(--secondary);
 }
 
 h1 {
-    @include f-heading-1;
+  @include f-heading-1;
 }
 
 h2 {
-    @include f-heading-2;
+  @include f-heading-2;
 }
 
 h3 {
-    @include f-heading-3;
+  @include f-heading-3;
 }
 
 h4 {
-    @include f-heading-4;
+  @include f-heading-4;
 }
 
 h5 {
-    @include f-heading-5;
+  @include f-heading-5;
 }
 
 h6 {
-    @include f-heading-6;
+  @include f-heading-6;
 }
 
 button,
 input,
 select,
 textarea {
-    margin: 0;
+  margin: 0;
 }
 
 img,
 video {
-    height: auto;
-    max-width: 100%;
+  height: auto;
+  max-width: 100%;
 }
 
 p {
-    color: var(--secondary);
-    @include f-body;
+  color: var(--secondary);
+  @include f-body;
 
-    code {
-        background: var(--secondary-accent);
-        border-radius: 3px;
-        padding: 1px 4px;
-      }
+  code {
+    background: var(--secondary-accent);
+    border-radius: 3px;
+    padding: 1px 4px;
+  }
 }
 
 li {
@@ -130,40 +132,41 @@ li {
 }
 
 li::marker {
-    color: var(--secondary)
+  color: var(--secondary);
 }
 
 iframe {
-    border: 0;
+  border: 0;
 }
 
 table {
-    @include ff-sans;
-    margin-bottom: 1rem;
-    border-collapse: collapse;
-    width: 100%;
-    color: var(--secondary);
-    background-color: var(--primary);
+  @include ff-sans;
+  margin-bottom: 1rem;
+  border-collapse: collapse;
+  width: 100%;
+  color: var(--secondary);
+  background-color: var(--primary);
 
-    td, th {
-        @include table-th-td;
-    }
+  td,
+  th {
+    @include table-th-td;
+  }
 
-    tr:nth-child(even) {
-        background-color: var(--secondary-accent);
-      }
+  tr:nth-child(even) {
+    background-color: var(--secondary-accent);
+  }
 }
 
 code,
 pre {
-    @include ff-mono;
-    overflow: scroll;
+  @include ff-mono;
+  overflow: scroll;
 }
 
 a {
-    color: var(--main-accent)
+  color: var(--main-accent);
 }
 
-a code{
-    color: var(--main-accent);
+a code {
+  color: var(--main-accent);
 }

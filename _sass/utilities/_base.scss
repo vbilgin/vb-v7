@@ -1,4 +1,4 @@
-:root {
+html {
   --primary: white;
   --secondary: black;
   --main-accent: blue;
@@ -6,22 +6,14 @@
   --table-accent: #dfdfdf;
 }
 
-[data-theme="dark"] {
-  --primary: #121212;
-  --secondary: #f3f3f3;
-  --main-accent: #f6ae2d;
-  --secondary-accent: #4e4e4e;
-  --table-accent: #6b6b6b;
+@media (prefers-color-scheme: dark) {
+  html {
+    --primary: #121212;
+    --secondary: #f3f3f3;
+    --main-accent: #f6ae2d;
+    --secondary-accent: #4e4e4e;
+  }
 }
-
-// @media (prefers-color-scheme: dark) {
-//     :root {
-//         --primary: #121212;
-//         --secondary: #f3f3f3;
-//         --main-accent: #F6AE2D;
-//         --secondary-accent: #4e4e4e;
-//     }
-// }
 
 *,
 *::before,

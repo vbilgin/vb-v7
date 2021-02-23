@@ -158,3 +158,10 @@
   rating: 4
   review:
   gr-link: https://www.goodreads.com/book/show/41160292-exhalation
+
+- title: "Facebook"
+  author: "Steven Levy"
+  state: read
+  rating: 4
+  review: /projects/books/facebook
+  gr-link: https://www.goodreads.com/book/show/52032133-facebook

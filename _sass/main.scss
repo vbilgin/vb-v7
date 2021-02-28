@@ -1,24 +1,29 @@
 // Utilities
-@import './utilities/mixins';
-@import './utilities/base';
-@import './utilities/container';
-@import './utilities/syntax-highlighting';
+@import "./utilities/mixins";
+@import "./utilities/base";
+@import "./utilities/container";
+@import "./utilities/syntax-highlighting";
 
 // Layouts
-@import './layouts/page';
-@import './layouts/post';
-@import './layouts/poem';
+@import "./layouts/page";
+@import "./layouts/post";
+@import "./layouts/poem";
 
 // Includes
-@import './includes/header';
-@import './includes/footer';
+@import "./includes/header";
+@import "./includes/footer";
 
 // Pages
-@import './pages/home';
-@import './pages/blog';
+@import "./pages/home";
+@import "./pages/blog";
 
 // Projects
-@import './projects/books';
-@import './projects/spending';
-@import './projects/movies';
-@import './projects/fav-album-covers';
+@import "./projects/books";
+@import "./projects/spending";
+@import "./projects/movies";
+@import "./projects/fav-album-covers";
+
+// Fix for Flash of Unstyled Content
+html {
+  animation: none;
+}

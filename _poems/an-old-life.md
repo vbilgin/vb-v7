@@ -4,8 +4,9 @@ title: An Old Life
 permalink: /projects/poems/an-old-life
 tags: poem
 ---
+
 - All through the years
-- I’ve travelled and paid dues
+- I’ve traveled and paid dues
 - Searching for adventure
 - That I never found.
 - Truth be told, I miss it

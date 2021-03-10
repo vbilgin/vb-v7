@@ -165,3 +165,10 @@
   rating: 4
   review: /projects/books/facebook
   gr-link: https://www.goodreads.com/book/show/52032133-facebook
+
+- title: "The Mom Test"
+  author: "Rob Fitzpatrick"
+  state: read
+  rating: 5
+  review: /projects/books/the-mom-test
+  gr-link: https://www.goodreads.com/book/show/52283963-the-mom-test

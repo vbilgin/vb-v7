@@ -67,3 +67,8 @@
   rating: 2
   review: /projects/movies/miss-sloane
   imdb-link: https://www.imdb.com/title/tt4540710
+
+- title: "Children of Men"
+  rating: 5
+  review: /projects/movies/children-of-men
+  imdb-link: https://www.imdb.com/title/tt0206634

@@ -72,3 +72,9 @@
   rating: 5
   review: /projects/movies/children-of-men
   imdb-link: https://www.imdb.com/title/tt0206634
+
+- title: "Zack Snyder's Justice League"
+  rating: 5
+  review: /projects/movies/justice-league
+  imdb-link: https://www.imdb.com/title/tt12361974
+

@@ -82,3 +82,8 @@
   rating: 5
   review: /projects/movies/judas-and-the-black-messiah
   imdb-link: https://www.imdb.com/title/tt9784798
+
+- title: "Minari"
+  rating: 4
+  review: /projects/movies/minari
+  imdb-link: https://www.imdb.com/title/tt10633456

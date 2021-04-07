@@ -22,8 +22,3 @@
 @import "./projects/spending";
 @import "./projects/movies";
 @import "./projects/fav-album-covers";
-
-// Fix for Flash of Unstyled Content
-html {
-  animation: none;
-}

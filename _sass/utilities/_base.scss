@@ -6,15 +6,15 @@ html {
   --table-accent: #dfdfdf;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    --primary: #121212;
-    --secondary: #f3f3f3;
-    --main-accent: #f6ae2d;
-    --secondary-accent: #4e4e4e;
-    --table-accent: #6b6b6b;
-  }
-}
+// @media (prefers-color-scheme: dark) {
+//   html {
+//     --primary: #121212;
+//     --secondary: #f3f3f3;
+//     --main-accent: #f6ae2d;
+//     --secondary-accent: #4e4e4e;
+//     --table-accent: #6b6b6b;
+//   }
+// }
 
 *,
 *::before,

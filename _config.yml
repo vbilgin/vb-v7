@@ -1,11 +1,8 @@
 url: "https://www.victorbilgin.com"
 baseurl: ""
 title: "Victor Bilgin" 
-description: "My personal site for blog posts, book reviews, and other projects."
+description: "The personal site of Victor Bilgin"
 author: "Victor Bilgin"
-
-plugins:
-  - jekyll-feed
 
 email: hello@victorbilgin.com
 

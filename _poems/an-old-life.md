@@ -5,11 +5,11 @@ permalink: /projects/poems/an-old-life
 tags: poem
 ---
 
-- All through the years
+- All throughout my years
 - I’ve traveled and paid dues
-- Searching for adventure
-- That I never found.
+- searching for adventure
+- that I never found.
 - Truth be told, I miss it
-- And you. And the lilies,
-- The roaring rapids,
-- And how it felt to be free.
+- and you, the lilies,
+- the roaring rapids,
+- and how it felt to be free.

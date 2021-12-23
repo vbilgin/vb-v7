@@ -1,0 +1,17 @@
+---
+layout: page
+title: Memento Poetica
+permalink: /projects/mempoe
+---
+
+<main class="mempoe__main">
+  <ul class="mempoe__list">
+    {% for poem in site.mempoe %}
+    <li class="mempoe__item">
+      <a href="{{ poem.url }}" class="poem__link"
+        >{{ poem.title }} &mdash; {{ poem.author }}</a
+      >
+    </li>
+    {% endfor %}
+  </ul>
+</main>

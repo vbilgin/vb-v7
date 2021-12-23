@@ -3,10 +3,9 @@ layout: default
 ---
 
 <main class="poem">
-  <h1 class="poem__title">
-    {{ page.title }}
-  </h1>
-  <article class="poem__content">
-    {{ content }}
-  </article>
+  <h1 class="poem__title">{{ page.title }}</h1>
+  {% if page.is-original == false %}
+  <h2 class="poem__author">{{ page.author }}</h2>
+  {% endif %}
+  <article class="poem__content">{{ content }}</article>
 </main>

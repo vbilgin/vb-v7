@@ -2,6 +2,12 @@
   font-weight: normal;
 }
 
+.poem__author {
+  font-weight: normal;
+  @include f-heading-5;
+  margin-top: -1em;
+}
+
 .poem__content ul {
   list-style: none;
   padding: 0 0 0 1.3rem;

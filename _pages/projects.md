@@ -9,4 +9,6 @@ This page lists some of my projects. A project could be an experiment, a new hab
 ## Ongoing
 
 - [`./poems`](/projects/poems) --
-  Some poems I've written. I'll add to this project as I write more of them.
+  Poems I've written.
+- [`./mempoe`](/projects/mempoe) --
+  Memento poetica. My favorite poems.

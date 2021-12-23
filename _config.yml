@@ -1,6 +1,6 @@
 url: "https://www.victorbilgin.com"
 baseurl: ""
-title: "Victor Bilgin" 
+title: "Victor Bilgin"
 description: "The personal site of Victor Bilgin"
 author: "Victor Bilgin"
 
@@ -9,13 +9,15 @@ email: hello@victorbilgin.com
 include:
   - _pages
   - _projects
-  
+
 collections:
   book-reviews:
     output: true
   movie-reviews:
     output: true
   poems:
+    output: true
+  mempoe:
     output: true
 
 markdown: kramdown

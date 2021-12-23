@@ -4,6 +4,7 @@ title: The Fool in Pursuit
 permalink: /projects/poems/the-fool-in-pursuit
 tags: poem
 ---
+
 - Hairs out of the shadow
 - Dot the land and shape the sight.
 - I barrel forward, sharp-eyed,

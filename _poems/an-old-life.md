@@ -6,7 +6,7 @@ tags: poem
 ---
 
 - All throughout my years
-- I’ve traveled and paid dues
+- I’ve traveled and paid dues,
 - searching for adventure
 - that I never found.
 - Truth be told, I miss it

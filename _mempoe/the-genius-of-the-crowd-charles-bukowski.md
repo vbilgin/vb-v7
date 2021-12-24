@@ -11,7 +11,7 @@ is-original: false
 - And the best at murder are those who preach against it
 - And the best at hate are those who preach love
 - And the best at war finally are those who preach peace
--
+
 - Those who preach god, need god
 - Those who preach peace do not have peace
 - Those who preach peace do not have love

@@ -3,6 +3,7 @@ layout: poem
 title: Bluebird
 author: Charles Bukowski
 is-original: false
+permalink: /projects/mempoe/bluebird-charles-bukowski
 ---
 
 - there's a bluebird in my heart that

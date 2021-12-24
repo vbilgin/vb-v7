@@ -3,6 +3,7 @@ layout: poem
 title: "In a Dark Time"
 author: Theodore Roethke
 is-original: false
+permalink: /projects/mempoe/in-a-dark-time-roethke
 ---
 
 - In a dark time, the eye begins to see,

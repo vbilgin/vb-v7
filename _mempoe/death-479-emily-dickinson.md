@@ -3,6 +3,7 @@ layout: poem
 title: "Because I could not stop for Death (479)"
 author: Emily Dickinson
 is-original: false
+permalink: /projects/mempoe/death-479-emily-dickinson
 ---
 
 - Because I could not stop for Death –

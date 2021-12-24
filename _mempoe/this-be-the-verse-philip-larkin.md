@@ -3,6 +3,7 @@ layout: poem
 title: "This Be The Verse"
 author: Philip Larkin
 is-original: false
+permalink: /projects/mempoe/this-be-the-verse-philip-larkin
 ---
 
 - They fuck you up, your mum and dad.
@@ -19,8 +20,6 @@ is-original: false
 - It deepens like a coastal shelf.
 - Get out as early as you can,
 - And don't have any kids yourself.
-
-<br>
 
 ---
 

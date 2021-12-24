@@ -3,6 +3,7 @@ layout: poem
 title: "[i carry your heart with me(i carry it in]"
 author: E.E. Cummings
 is-original: false
+permalink: /projects/mempoe/i-carry-your-heart-ee-cummings
 ---
 
 - i carry your heart with me(i carry it in

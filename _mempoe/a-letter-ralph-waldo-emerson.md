@@ -3,6 +3,7 @@ layout: poem
 title: "A Letter"
 author: Ralph Waldo Emerson
 is-original: false
+permalink: /projects/mempoe/a-letter-ralph-waldo-emerson
 ---
 
 - Dear brother, would you know the life,

@@ -3,6 +3,7 @@ layout: poem
 title: "so you want to be a writer?"
 author: Charles Bukowski
 is-original: false
+permalink: /projects/mempoe/so-you-want-be-a-writer-bukowski
 ---
 
 - if it doesn't come bursting out of you

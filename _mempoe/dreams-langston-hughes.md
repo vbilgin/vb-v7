@@ -3,6 +3,7 @@ layout: poem
 title: Dreams
 author: Langston Hughes
 is-original: false
+permalink: /projects/mempoe/dreams-langston-hughes
 ---
 
 - Hold fast to dreams

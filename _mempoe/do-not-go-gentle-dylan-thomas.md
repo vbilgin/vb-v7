@@ -3,6 +3,7 @@ layout: poem
 title: "Do not go gentle into that good night"
 author: Dylan Thomas
 is-original: false
+permalink: /projects/mempoe/do-not-go-gentle-dylan-thomas
 ---
 
 - Do not go gentle into that good night,

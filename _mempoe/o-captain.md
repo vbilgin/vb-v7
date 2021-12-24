@@ -3,6 +3,7 @@ layout: poem
 title: "O Captain! My Captain!"
 author: Walt Whitman
 is-original: false
+permalink: /projects/mempoe/o-captain-whitman
 ---
 
 - O Captain! my Captain! our fearful trip is done;

@@ -27,4 +27,9 @@
 .recent__date {
   @include ff-mono;
   margin: 0;
+  font-size: 1rem;
+}
+
+.recent__excerpt {
+  margin-top: 0.5rem;
 }

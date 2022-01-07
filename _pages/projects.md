@@ -12,3 +12,5 @@ This page lists some of my projects. A project could be an experiment, a new hab
   Poems I've written.
 - [`./mempoe`](/projects/mempoe) --
   Memento poetica. My favorite poems.
+- [`./spending`](/projects/spending) --
+  I track what I spend.

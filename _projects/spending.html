@@ -1,0 +1,28 @@
+---
+layout: page
+title: Spending
+permalink: /projects/spending
+---
+
+<em>This project is complete.</em>
+<p>
+  In this project I tried to document every cent I spend in order to get a
+  better understanding of where my money went and why. It went on for two months
+  and I gained some needed insights. I'm looking into a more automated and
+  interactive project in this same vein.
+</p>
+
+<table class="spending__table">
+  <tr>
+    <th>Date</th>
+    <th>Item</th>
+    <th>Amount (USD)</th>
+  </tr>
+  {% for purchase in site.data.spending reversed %}
+  <tr>
+    <td>{{ purchase.date | date: '%m/%d/%Y' }}</td>
+    <td>{{ purchase.name }}</td>
+    <td class="spending__amt">{{ purchase.amount }}</td>
+  </tr>
+  {% endfor %}
+</table>

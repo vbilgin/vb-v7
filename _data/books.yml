@@ -158,3 +158,10 @@
   rating: 4
   review: 
   gr-link: https://www.goodreads.com/book/show/50772888-no-filter
+
+- title: "Kitchen Confidential"
+  author: "Anthony Bourdain"
+  state: read
+  rating: 5
+  review: /projects/books/kitchen-confidential
+  gr-link: https://www.goodreads.com/book/show/33313.Kitchen_Confidential

@@ -163,3 +163,12 @@
 - date: 2022-01-05
   name: "Backblaze"
   amount: 5.74
+- date: 01-07-2022
+  name: "Chick-fil-a"
+  amount: 10
+- date: 01-07-2022
+  name: "Vitamins"
+  amount: 15
+- date: 01-07-2022
+  name: "[redacted]'s birthday gift"
+  amount: 50

@@ -165,3 +165,10 @@
   rating: 5
   review: /projects/books/kitchen-confidential
   gr-link: https://www.goodreads.com/book/show/33313.Kitchen_Confidential
+
+- title: "Women Don't Owe You Pretty"
+  author: "Florence Given"
+  state: read
+  rating: 2
+  review: /projects/books/women-dont-owe-you-pretty
+  gr-link: https://www.goodreads.com/book/show/52252715-women-don-t-owe-you-pretty

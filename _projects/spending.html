@@ -12,9 +12,13 @@ permalink: /projects/spending
   </tr>
   {% for purchase in site.data.spending reversed %}
   <tr>
-    <td>{{ purchase.date | date: '%m/%d/%Y' }}</td>
-    <td>{{ purchase.name }}</td>
-    <td class="spending__amt">{{ purchase.amount }}</td>
+    <td class="spending__date">{{ purchase.date | date: '%m/%d/%Y' }}</td>
+    <td class="spending__name">{{ purchase.name }}</td>
+    <td class="spending__amt">
+      {% if purchase.amount != "" %}
+      ${{ purchase.amount }}
+      {% endif %}
+    </td>
   </tr>
   {% endfor %}
 </table>

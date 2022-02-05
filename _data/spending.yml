@@ -131,44 +131,110 @@
   name: <strong>January 2022</strong>
   amount: ""
 - date: 2022-01-02
-  name: "iCloud"
+  name: iCloud 50GB Plan
   amount: 0.99
 - date: 2022-01-02
-  name: "Groceries (DoorDash - Pavilions)"
+  name: Groceries - DoorDash (Pavilions)
   amount: 34.85
 - date: 2022-01-02
-  name: "Groceries (Jons)"
-  amount: 10.98
+  name: Groceries - Jons
+  amount: 67.78
 - date: 2022-01-02
-  name: "Paid [redacted] for wine"
+  name: Paid [redacted] for wine
   amount: 7
 - date: 2022-01-02
-  name: "Gas"
+  name: Gas - Arco
   amount: 45.41
 - date: 2022-01-02
-  name: "[redacted]'s Christmas gift"
+  name: "[redacted]'s Christmas present"
   amount: 100
 - date: 2022-01-03
-  name: "Chipotle"
-  amount: 19.90
+  name: Chipotle
+  amount: 32
 - date: 2022-01-03
-  name: "Klarity deposit"
+  name: Klarity deposit
   amount: 10
 - date: 2022-01-03
-  name: "COVID Rapid Test"
+  name: COVID Rapid Test
   amount: 29.55
 - date: 2022-01-05
-  name: "[redacted]'s Christmas gift"
+  name: "[redacted]'s Christmas present"
   amount: 35.83
 - date: 2022-01-05
-  name: "Backblaze"
+  name: Backblaze
   amount: 5.74
 - date: 2022-01-07
-  name: "Chick-fil-a"
+  name: Paid [redacted] for Chick-fil-a (Zelle)
   amount: 10
 - date: 2022-01-07
-  name: "Vitamins"
+  name: Paid back [redacted] for food
   amount: 15
 - date: 2022-01-07
-  name: "[redacted]'s birthday gift"
-  amount: 50
+  name: Amazon giftcard for [redacted]
+  amount: 100
+- date: 2022-01-09
+  name: FedEx
+  amount: 75.26
+- date: 2022-01-10
+  name: Zelle to [redacted] (Chipotle)
+  amount: 10
+- date: 2022-01-14
+  name: Arco
+  amount: 43.52
+- date: 2022-01-14
+  name: In-N-Out
+  amount: 31.92
+- date: 2022-01-15
+  name: Paid back [redacted] for drink
+  amount: 6.5
+- date: 2022-01-15
+  name: Parking - Hermosa Beach
+  amount: 2.25
+- date: 2022-01-16
+  name: In-N-Out
+  amount: 12.76
+- date: 2022-01-16
+  name: DoorDash (Taco Bell)
+  amount: 19.54
+- date: 2022-01-17
+  name: IHOP with [redacted]
+  amount: 41.14
+- date: 2022-01-18
+  name: God of War (Steam)
+  amount: 49.99
+- date: 2022-01-18
+  name: 1Password
+  amount: 6.95
+- date: 2022-01-18
+  name: Klarity initial fee
+  amount: 139
+- date: 2022-01-19
+  name: Car payment
+  amount: 226.58
+- date: 2022-01-21
+  name: DoorDash (Panda Express)
+  amount: 18.98
+- date: 2022-01-22
+  name: AT&T
+  amount: 187.37
+- date: 2022-01-23
+  name: Chipotle
+  amount: 30
+- date: 2022-01-24
+  name: Coinbase - ETH
+  amount: 100
+- date: 2022-01-26
+  name: Gym
+  amount: 9.99
+- date: 2022-01-26
+  name: Arco
+  amount: 48.73
+- date: 2022-01-26
+  name: DoorDash (Chipotle)
+  amount: 45.03
+- date: 2022-01-28
+  name: Office Pro Plus 2021 (G2A)
+  amount: 41.3
+- date: 2022-01-29
+  name: "Bought [redacted]'s Chipotle"
+  amount: 22

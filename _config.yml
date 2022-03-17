@@ -11,15 +11,13 @@ include:
   - _projects
 
 collections:
-  book-reviews:
+  books:
     output: true
-  movie-reviews:
+  media:
     output: true
   poems:
     output: true
   mempoe:
-    output: true
-  book-reviews:
     output: true
 
 markdown: kramdown

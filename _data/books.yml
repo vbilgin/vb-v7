@@ -172,3 +172,10 @@
   rating: 2
   review: /projects/books/women-dont-owe-you-pretty
   gr-link: https://www.goodreads.com/book/show/52252715-women-don-t-owe-you-pretty
+
+- title: "The Power of Zero"
+  author: "David McKnight"
+  state: read
+  rating: 4
+  review: /projects/books/power-of-zero
+  gr-link: https://www.goodreads.com/book/show/20703342-the-power-of-zero

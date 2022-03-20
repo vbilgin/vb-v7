@@ -3,8 +3,10 @@ layout: page
 title: Books
 permalink: /projects/books
 ---
+
 <p>
-  The titles are hyperlinked to that book's Goodreads page (if it has one). The review link points to that book's review written by me and hosted on this site (assuming I reviewed that specific book).
+  The title links to that book's review written by me and hosted on this site
+  (assuming I reviewed that specific book).
 </p>
 
 <table class="read__table">
@@ -12,26 +14,16 @@ permalink: /projects/books
     <th>Title</th>
     <th>Author</th>
     <th>Rating</th>
-    <th>Links</th>
   </tr>
   {% for book in site.data.books reversed %}
-  {% if book.state == "read" %}
   <tr>
     <td>
-      {% if book.gr-link == null %}
-      {{ book.title }}
-      {% else %}
-      <a href="{{ book.gr-link }}">{{ book.title }}</a>
+      {% if book.review == null %} {{ book.title }} {% else %}
+      <a href="{{ book.review }}">{{ book.title }}</a>
       {% endif %}
     </td>
     <td>{{ book.author }}</td>
     <td>{{ book.rating }}/5</td>
-    <td>
-      {% unless book.review == null %}
-      <a href="{{ site.url }}{{ book.review }}">Review</a>  
-      {% endunless %}
-    </td>
   </tr>
-  {% endif %}
   {% endfor %}
 </table>

@@ -251,7 +251,7 @@
   name: Supergreens
   amount: 82.12
 - date: 2022-02-02
-  name: 'McDonald''s'
+  name: "McDonald's"
   amount: 14.54
 - date: 2022-02-04
   name: Savings
@@ -287,7 +287,7 @@
   name: Arco
   amount: 20
 - date: 2022-02-10
-  name: 'Doordash (Dave''s Hot Chicken)'
+  name: "Doordash (Dave's Hot Chicken)"
   amount: 23.65
 - date: 2022-02-11
   name: Civic 2018 payment
@@ -296,7 +296,7 @@
   name: Ralphs (Ice and water for party)
   amount: 33.19
 - date: 2022-02-13
-  name: 'Vroman''s Bookstore'
+  name: "Vroman's Bookstore"
   amount: 61.67
 - date: 2022-02-13
   name: BevMo
@@ -308,7 +308,7 @@
   name: Fingerprinting
   amount: 81.45
 - date: 2022-02-14
-  name: 'Valentine''s gift for [redacted]'
+  name: "Valentine's gift for [redacted]"
   amount: 57.07
 - date: 2022-02-14
   name: Flowers for [redacted]
@@ -341,7 +341,7 @@
   name: Klarity
   amount: 59
 - date: 2022-02-20
-  name: 'DoorDash (Dave''s Hot Chicken)'
+  name: "DoorDash (Dave's Hot Chicken)"
   amount: 22.15
 - date: 2022-02-21
   name: Vons (Post-booster water)
@@ -373,6 +373,6 @@
 - date: 2022-02-28
   name: Reconcile CC
   amount: 2.92
-- date: 2022-02-28
+- date: "2022-02-28"
   name: Arco
-  amount: 41.3
+  amount: "41.3"

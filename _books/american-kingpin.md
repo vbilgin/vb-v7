@@ -11,5 +11,3 @@ The book was nowhere near technical enough. I don’t mean that Bilton should’
 The story is of course engrossing. Ulbricht's story is one of the shining examples of truth being stranger than fiction.
 
 Overall, if you’re interested in the events or like a good thriller, this book will be a great read for you. If you’re looking for a well-written and insightful look at Ross Ulbricht and Silk Road, keep in mind that you won’t find that here.
-
-[Goodreads Link](https://www.goodreads.com/book/show/31920777-american-kingpin)

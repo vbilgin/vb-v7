@@ -1,181 +1,135 @@
 - title: "Steve Jobs"
   author: "Walter Isaacson"
-  state: read
   rating: 4
   review:
-  gr-link: https://www.goodreads.com/book/show/11084145-steve-jobs
 
 - title: "Bad Blood"
   author: "John Carreyrou"
-  state: read
   rating: 3
   review:
-  gr-link: https://www.goodreads.com/book/show/37976541-bad-blood
 
 - title: "Hatching Twitter"
   author: "Nick Bilton"
-  state: read
   rating: 3
   review:
-  gr-link: https://www.goodreads.com/book/show/18656827-hatching-twitter
 
 - title: "Before the Fall"
   author: "Noah Hawley"
-  state: read
   rating: 1
   review:
-  gr-link: https://www.goodreads.com/book/show/40670008-before-the-fall
 
 - title: "Shoe Dog"
   author: "Phil Knight"
-  state: read
   rating: 5
   review:
-  gr-link: https://www.goodreads.com/book/show/27220736-shoe-dog
 
 - title: "Story"
   author: "Robert McKee"
-  state: read
   rating: 4
   review:
-  gr-link: https://www.goodreads.com/book/show/48654.Story
 
 - title: "Now You See It and Other Essays on Design"
   author: "Michael Bierut"
-  state: read
   rating: 2
   review:
-  gr-link: https://www.goodreads.com/book/show/34220731-now-you-see-it-and-other-essays-on-design
 
 - title: "How To"
   author: "Michael Bierut"
-  state: read
   rating: 4
   review:
-  gr-link: https://www.goodreads.com/book/show/26140485-how-to
 
 - title: "A Guide to the Good Life"
   author: "Michael B. Irvine"
-  state: read
   rating: 5
   review:
-  gr-link: https://www.goodreads.com/book/show/5617966-a-guide-to-the-good-life
 
 - title: "The War of Art"
   author: "Steven Pressfield"
-  state: read
   rating: 2
   review:
-  gr-link: https://www.goodreads.com/book/show/1319.The_War_of_Art
 
 - title: "On Writing"
   author: "Stephen King"
   state: read
   rating: 5
   review:
-  gr-link: https://www.goodreads.com/book/show/10569.On_Writing
 
 - title: "The Stranger"
   author: "Albert Camus"
-  state: read
   rating: 5
   review:
-  gr-link: https://www.goodreads.com/book/show/49552.The_Stranger
 
 - title: "When Breath Becomes Air"
   author: "Paul Kalanithi"
-  state: read
   rating: 4
   review:
-  gr-link: https://www.goodreads.com/book/show/25899336-when-breath-becomes-air
 
 - title: "A Short History of Nearly Everything"
   author: "Bill Bryson"
-  state: read
   rating: 4
   review: /projects/books/short-history-nearly-everything
-  gr-link: https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything
 
 - title: "Just My Type"
   author: "Simon Garfield"
-  state: read
   rating: 1
   review:
-  gr-link: https://www.goodreads.com/book/show/10909804-just-my-type
 
 - title: "Permanent Record"
   author: "Edward Snowden"
-  state: read
   rating: 5
   review: /projects/books/permanent-record
-  gr-link: https://www.goodreads.com/book/show/46223297-permanent-record
 
 - title: "American Kingpin"
   author: "Nick Bilton"
-  state: read
   rating: 3
   review: /projects/books/american-kingpin
-  gr-link: https://www.goodreads.com/book/show/31920777-american-kingpin
 
 - title: "This is Going to Hurt"
   author: "Adam Kay"
-  state: read
   rating: 5
   review: /projects/books/this-is-going-to-hurt
-  gr-link: https://www.goodreads.com/book/show/35510008-this-is-going-to-hurt
 
 - title: "How the Internet Happened"
   author: "Brian McCullough"
-  state: read
   rating: 4
   review: /projects/books/how-the-internet-happened
-  gr-link: https://www.goodreads.com/book/show/38212134-how-the-internet-happened
 
 - title: "Exhalation"
   author: "Ted Chiang"
-  state: read
   rating: 4
   review:
-  gr-link: https://www.goodreads.com/book/show/41160292-exhalation
 
 - title: "Facebook"
   author: "Steven Levy"
-  state: read
   rating: 4
   review: /projects/books/facebook
-  gr-link: https://www.goodreads.com/book/show/52032133-facebook
 
 - title: "The Mom Test"
   author: "Rob Fitzpatrick"
-  state: read
   rating: 5
   review: /projects/books/the-mom-test
-  gr-link: https://www.goodreads.com/book/show/52283963-the-mom-test
 
 - title: "No Filter"
   author: "Sarah Frier"
-  state: read
   rating: 4
-  review: 
-  gr-link: https://www.goodreads.com/book/show/50772888-no-filter
+  review:
 
 - title: "Kitchen Confidential"
   author: "Anthony Bourdain"
-  state: read
   rating: 5
   review: /projects/books/kitchen-confidential
-  gr-link: https://www.goodreads.com/book/show/33313.Kitchen_Confidential
 
 - title: "Women Don't Owe You Pretty"
   author: "Florence Given"
-  state: read
   rating: 2
   review: /projects/books/women-dont-owe-you-pretty
-  gr-link: https://www.goodreads.com/book/show/52252715-women-don-t-owe-you-pretty
 
 - title: "The Power of Zero"
   author: "David McKnight"
-  state: read
   rating: 4
   review: /projects/books/power-of-zero
-  gr-link: https://www.goodreads.com/book/show/20703342-the-power-of-zero
+
+- author: Ernest Hemingway
+  rating: 3
+  review: /projects/books/the-sun-also-rises
+  title: The Sun Also Rises

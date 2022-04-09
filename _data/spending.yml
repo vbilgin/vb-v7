@@ -376,3 +376,135 @@
 - date: "2022-02-28"
   name: Arco
   amount: "41.3"
+- date: ""
+  name: <strong>March 2022</strong>
+  amount: ""
+- amount: "48.34"
+  date: "2022-03-02"
+  name: FedEx (work expense)
+- amount: "57.3"
+  date: "2022-03-02"
+  name: Chevron
+- amount: "0.99"
+  date: "2022-03-03"
+  name: iCloud
+- amount: "27.38"
+  date: "2022-03-03"
+  name: Charging cable for [redacted]
+- amount: "18.98"
+  date: "2022-03-04"
+  name: DoorDash (Panda Express)
+- amount: "2.99"
+  date: "2022-03-04"
+  name: Deezer
+- amount: "50.74"
+  date: "2022-03-04"
+  name: Groceries
+- amount: "51.88"
+  date: "2022-03-05"
+  name: Bowling
+- amount: "6.38"
+  date: "2022-03-05"
+  name: Backblaze
+- amount: "21"
+  date: "2022-03-06"
+  name: Chipotle
+- amount: "29.67"
+  date: "2022-03-06"
+  name: Groceries
+- amount: "30"
+  date: "2022-03-07"
+  name: Drinks at bowling alley
+- amount: "44.06"
+  date: "2022-03-09"
+  name: Arco
+- amount: "18.98"
+  date: "2022-03-11"
+  name: DoorDash (Panda Express)
+- amount: "28.24"
+  date: "2022-03-11"
+  name: Wine
+- amount: "50"
+  date: "2022-03-12"
+  name: New windshield wipers
+- amount: "20"
+  date: "2022-03-14"
+  name: Car wash
+- amount: "940"
+  date: "2022-03-14"
+  name: Various misc car repair fees
+- amount: "15.85"
+  date: "2022-03-14"
+  name: Birthday present for [redacted]
+- amount: "90.29"
+  date: "2022-03-15"
+  name: Amazon - Bloom Nutrition
+- amount: "2000"
+  date: "2022-03-16"
+  name: Car payment
+- amount: "6.95"
+  date: "2022-03-17"
+  name: 1Password
+- amount: "25"
+  date: "2022-03-17"
+  name: Klarity
+- amount: "19.78"
+  date: "2022-03-18"
+  name: DoorDash (Farmer Boys)
+- amount: "61.1"
+  date: "2022-03-18"
+  name: Arco
+- amount: "94.61"
+  date: "2022-03-18"
+  name: Macy's (new Clark's boots)
+- amount: "51.91"
+  date: "2022-03-19"
+  name: San Antonio Winery - various gifts
+- amount: "12.87"
+  date: "2022-03-19"
+  name: San Antonio Winery - wine
+- amount: "36.07"
+  date: "2022-03-20"
+  name: Dominos
+- amount: "8"
+  date: "2022-03-20"
+  name: Bottle of water at event
+- amount: "162.06"
+  date: "2022-03-22"
+  name: AT&T
+- amount: "2277.75"
+  date: "2022-03-23"
+  name: Final car payment (woo!)
+- amount: "650"
+  date: "2022-03-24"
+  name: Rent
+- amount: "16.69"
+  date: "2022-03-25"
+  name: Dominos
+- amount: "57.29"
+  date: "2022-03-26"
+  name: Arco
+- amount: "40"
+  date: "2022-03-26"
+  name: Haircut
+- amount: "35"
+  date: "2022-03-26"
+  name: Buffalo Wild Wings
+- amount: "40"
+  date: "2022-03-27"
+  name: Skeet shooting
+- amount: "72"
+  date: "2022-03-27"
+  name: 38 Degrees
+- amount: "60.47"
+  date: "2022-03-27"
+  name: Amazon - Hygiene products
+- amount: "54.74"
+  date: "2022-03-28"
+  name: Groceries
+- amount: "16.69"
+  date: "2022-03-28"
+  name: Tried Soju
+- amount: "56.27"
+  date: "2022-03-30"
+  name: FedEx (work expense)

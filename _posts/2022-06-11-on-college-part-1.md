@@ -7,7 +7,7 @@ tags: post
 
 **I’m a two-time college dropout. This post talks about the first time.**
 
-My first experience with college was when I arrived in Delaware, Ohio in August of 2016. I’d graduated high school with a subpar GPA and wanted to go somewhere far from home and throw myself into the thick it. Up until that point, I’d never spent more than a week away from my parents. I knew that eventually I would have to break away and live on my own so going to Ohio was my way of biting the bullet. Ohio Wesleyan University was where I was due to start my post-high school life – my adult life.
+My first experience with college was when I arrived in Delaware, Ohio in August of 2016. I’d graduated high school with a subpar GPA and wanted to go somewhere far from home and throw myself into the thick of it. Up until that point, I’d never spent more than a week away from my parents. I knew that eventually I would have to break away and live on my own so going to Ohio was my way of biting the bullet. Ohio Wesleyan University was where I was due to start my post-high school life – my adult life.
 
 To set the scene, OWU (and Ohio in general) was a stark departure from my life in Los Angeles, CA. The university was a very small private liberal arts school in the heart of a tiny town thirty minutes from Columbus. OWU had only a few hundred more students than my high school. Delaware was a primarily conservative town that paled in size compared to Los Angeles. I was in a completely different world. It wasn’t exactly a world I liked much, but I wasn’t surprised; I had done my research and knew what I was getting into.
 

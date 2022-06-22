@@ -6,3 +6,9 @@
   @include ff-sans;
   font-size: 0.8rem;
 }
+
+.footer__quote {
+  @include ff-sans;
+  font-size: 0.8rem;
+  font-style: italic;
+}

@@ -4,6 +4,8 @@ title: Spending
 permalink: /projects/spending
 ---
 
+<p>On hold...</p>
+
 <table class="spending__table">
   <tr>
     <th>Date</th>
@@ -15,9 +17,7 @@ permalink: /projects/spending
     <td class="spending__date">{{ purchase.date | date: '%m/%d/%Y' }}</td>
     <td class="spending__name">{{ purchase.name }}</td>
     <td class="spending__amt">
-      {% if purchase.amount != "" %}
-      ${{ purchase.amount }}
-      {% endif %}
+      {% if purchase.amount != "" %} ${{ purchase.amount }} {% endif %}
     </td>
   </tr>
   {% endfor %}

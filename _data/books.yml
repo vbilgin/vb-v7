@@ -133,3 +133,8 @@
   rating: 3
   review: /projects/books/the-sun-also-rises
   title: The Sun Also Rises
+
+- author: Andy Weir
+  rating: 4
+  review: /projects/books/project-hail-mary
+  title: Project Hail Mary

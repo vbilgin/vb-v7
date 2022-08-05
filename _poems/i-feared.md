@@ -4,12 +4,13 @@ title: I Feared
 permalink: /projects/poems/i-feared
 tags: poem
 ---
-- Truly, I feared
-- Not calamity,
-- But what would be
-- If not pain
-- Nor plight could kill us.
+
+- Truly, I feared,
+- not calamity,
+- but what would be
+- if not pain nor plight
+- could kill us.
 
 - For fear to me
-- Bears not of death
-- But immortality.
+- bears not of death
+- but immortality.

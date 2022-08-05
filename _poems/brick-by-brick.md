@@ -9,9 +9,9 @@ tags: poem
 - you've torn our home asunder.
 - You've pulled the walls down,
 - wrested plaster and plumbing,
-- leaving rubble, less than nothing.
+- leaving rubble. Less than nothing.
 - Below your watchful eye
-- I fear there's nowhere left to hide.
+- I fear there's nothing left to hide.
 - Having stripped me bare, unearthed my lies,
-- what is left now but my bare heart
-- and you, contented.
+- what is left now but my beating heart
+- and you.

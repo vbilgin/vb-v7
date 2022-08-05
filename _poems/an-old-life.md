@@ -10,6 +10,6 @@ tags: poem
 - searching for adventure
 - that I never found.
 - Truth be told, I miss it
-- and you, the lilies,
+- and you; the lilies,
 - the roaring rapids,
 - and how it felt to be free.

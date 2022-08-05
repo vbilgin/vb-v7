@@ -1,11 +1,11 @@
 ---
 layout: poem
-title: "Untitled #6"
-permalink: /projects/poems/untitled-6
+title: "Painting"
+permalink: /projects/poems/painting
 tags: poem
 ---
 
-- Take, if you may,
+- Take, if you may dare,
 - the power that lies
 - in thee: Nature.
 - Be it bright,

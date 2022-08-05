@@ -9,12 +9,12 @@ tags: poem
 - what questions I would ask
 - of Lady Fate or any god,
 - if given such a chance.
-  
+
 - Yet if soothing answers were to drip,
 - falling from sweetened lips,
 - what should I embrace at the taste
-- of this delicious nectar?
-  
+- of their delicious nectar?
+
 - For it dances in the veins,
 - courting pieces of your whole,
 - such that other thoughts are made meek
